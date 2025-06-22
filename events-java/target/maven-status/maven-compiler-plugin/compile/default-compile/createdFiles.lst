@@ -1,0 +1,9 @@
+com\br\breno\model\Evento.class
+com\br\breno\dao\DatabaseConnection.class
+com\br\breno\dao\ParticipanteDAO.class
+com\br\breno\model\Participante.class
+com\br\breno\model\Palestrante.class
+com\br\breno\Main.class
+com\br\breno\dao\EventoDAO.class
+com\br\breno\dao\PalestranteDAO.class
+com\br\breno\view\MainFrame.class
